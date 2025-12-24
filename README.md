@@ -8,4 +8,3 @@ Add pizzas to the menu ✅
 Place an order (updates cash register) ✅
 Complete an order (status → "completed") ✅
 Type-safe (TypeScript types included) ✅
-Zero dependencies ✅
