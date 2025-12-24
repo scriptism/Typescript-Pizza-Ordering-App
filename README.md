@@ -1,4 +1,4 @@
-🍕 Pizza-Shop Console App
+<h1>🍕 Pizza-Shop Console App </h1>
 A tiny TypeScript demo that models a real-world pizza counter: menu, orders, register, and queue—all kept in plain variables so you can run it straight in Node or the browser console.
 Features
 Table
